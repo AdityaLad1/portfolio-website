@@ -1,36 +1,123 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌐 Aditya Lad — Developer Portfolio
 
-## Getting Started
+🚀 Personal portfolio website showcasing my projects, skills, and experience as a Frontend / Full Stack Developer.
 
-First, run the development server:
+This portfolio highlights real-world applications built using modern web technologies such as React, Next.js, Tailwind CSS, Node.js, and MongoDB.
 
-```bash
+---
+
+## 🔗 Live Demo
+👉 Website: https://adityalad.in
+
+---
+
+## 📌 Features
+
+- ✅ Clean and modern responsive UI  
+- ✅ Mobile-friendly design  
+- ✅ Projects showcase with GitHub & Live links  
+- ✅ About section with skills and experience  
+- ✅ Resume download  
+- ✅ Fast performance and SEO optimized  
+- ✅ Deployed on Vercel  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- Next.js  
+- React  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+
+**Tools & Deployment**
+- Git & GitHub  
+- Vercel  
+- VS Code  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Patreon Clone (Full Stack)
+- Authentication and protected routes  
+- Dynamic routing and reusable components  
+- Responsive UI using Tailwind CSS  
+- Backend API integration  
+- GitHub: https://github.com/AdityaLad1/patreon-clone  
+
+---
+
+### 🔹 Password Manager (MERN Stack)
+- Secure CRUD operations  
+- REST API integration  
+- MongoDB persistence  
+- Responsive dashboard UI  
+- GitHub: https://github.com/AdityaLad1/password-manager  
+
+---
+
+### 🔹 Task Management App
+- React Hooks state management  
+- Clean and responsive UI  
+- GitHub: https://github.com/AdityaLad1/To-do-List-Reactjs-App  
+
+---
+
+### 🔹 Spotify UI Clone
+- HTML, CSS, JavaScript  
+- DOM manipulation and UI interactions  
+- GitHub: https://github.com/AdityaLad1/spotify-clone  
+
+---
+
+## 🧑‍💻 About Me
+
+I am a Full Stack Developer with strong foundations in JavaScript, React, and Node.js. I enjoy building scalable web applications and continuously improving my engineering skills. I come from an Electrical Engineering background and am passionate about solving real-world problems through software.
+
+Currently focused on improving production-grade development skills, performance optimization, and system design fundamentals.
+
+---
+
+## ⚙️ Installation & Local Setup
+
+Clone the repository:
+
+git clone https://github.com/AdityaLad1/portfolio-website.git
+cd portfolio-website
+
+Install dependencies:
+
+npm install
+
+Run locally:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open in browser:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 Deployment
 
-To learn more about Next.js, take a look at the following resources:
+This project is deployed using **Vercel**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To deploy your own version:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+npm run build
+vercel
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📬 Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 📧 Email: adityanlad@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/aditya-n-lad  
+- 🧑‍💻 GitHub: https://github.com/AdityaLad1  
+
+---
+
+⭐ If you like this portfolio, feel free to fork or star the repository!

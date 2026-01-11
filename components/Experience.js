@@ -9,7 +9,7 @@ const Experience = () => {
         <ul className="space-y-4 text-gray-300">
           <li>Graduate Engineer Trainee – Polycab India Ltd (2024)</li>
           <li>C++ Bootcamp Instructor – 7 Day Workshop</li>
-          <li>SEO Optimization – LearningWithSmartness</li>
+        
         </ul>
       </section>
     </div>
